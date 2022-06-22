@@ -1,3 +1,5 @@
 # Hello
 
-My name is Brent. My top interests are programming, running, and reading. My favorite programming language is Python 3, but I enjoy trying out various programming languages and paradigms. If you would like to know more about me, please visit my [personal website](https://pappasbrent.com).
+My Name is Brent Pappas.
+I am Computer Science PhD student at the University of Central Florida, where I am advised by Dr. Paul Gazzillo.
+My research interests are in program analysis and transformation; more specifically, I am currently working on a tool for automatically transforming C function-like macros to C functions.
